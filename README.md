@@ -2,7 +2,7 @@
 
 > Ein LinkedIn-Klon als vollständige Fullstack-Anwendung.  
 > **Backend:** FastAPI · PostgreSQL · Redis · Celery  
-> **Frontend:** React · TypeScript · Tailwind CSS
+> **Frontend:** HTML : CSS : JS
 
 ---
 
